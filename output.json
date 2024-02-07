@@ -1,0 +1,13 @@
+{
+    "description": "Caminhão tombado ocupando parte da rodovia, com presença de autoridades e desvio do tráfego em andamento.",
+    "q1": "O veículo está atravessado, ocupando parte da faixa da direita e acostamento.",
+    "q2": "Caminhão, cor preta, carregando grandes volumes cobertos por lona.",
+    "q3": "O caminhão está tombado, indicando dano significativo.",
+    "q4": "Tráfego está desviando do caminhão, com uma faixa bloqueada.",
+    "q5": "Condições de luz crepuscular ou pós-pôr do sol.",
+    "q6": "Presença do caminhão tombado como obstáculo; não é possível identificar fluidos ou destroços.",
+    "q7": "Autoridades e indivíduos parecem estar controlando a situação.",
+    "q8": "Não há identificações macro visíveis referentes a marcas ou empresas.",
+    "call_problems": "Acionar Resgate e Polícia Rodoviária.",
+    "url_img": "https://drive.google.com/uc?export=download&id=1Mi1mFMeF7Wn4SGChRkfjML5wUe_2tQhy"
+}
